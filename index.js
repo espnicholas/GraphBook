@@ -1,5 +1,3 @@
-export default class ComingSoon {
-  constructor() {
-    console.log('Coming Soon');
-  }
-}
+exports.printMsg = function () {
+  console.log('This is a message from the demo package');
+};

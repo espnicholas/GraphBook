@@ -1,7 +1,6 @@
 {
   "name": "graphbook",
   "version": "0.0.1",
-  "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -14,10 +13,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/espnicholas/graphbook.git"
+    "url": "git+https://github.com/espnicholas/graphbook.git"
   },
   "bugs": {
     "url": "https://github.com/espnicholas/graphbook/issues"
   },
-  "homepage": "https://github.com/espnicholas/graphbook"
+  "homepage": "https://github.com/espnicholas/graphbook",
+  "description": ""
 }
